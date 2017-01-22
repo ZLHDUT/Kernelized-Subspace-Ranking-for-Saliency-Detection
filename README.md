@@ -1,4 +1,4 @@
-# Kernelized-Subspace-Ranking-for-Saliency-Detection
+# Kernelized Subspace Ranking for Saliency Detection
 The codes and saliency results of the ECCV16 paper:" Kernelized Subspace Ranking for Saliency Detection"
 ## Citing this work
 If you find this work useful in your research, please consider citing:
@@ -33,6 +33,6 @@ The saliency maps on SED1, SED2, SOD, PASCAL, MSRA, HKU-IS, THUR15K, ECSSD and D
 ## Contact
 tiantianwang.ice@gmail.com
 
-[1] Hariharan B, Arbel谩ez P, Girshick R, et al. Simultaneous detection and segmentation, ECCV2014
+[1] Hariharan B, Arbelaez P, Girshick R, et al. Simultaneous detection and segmentation, ECCV2014
 
 
