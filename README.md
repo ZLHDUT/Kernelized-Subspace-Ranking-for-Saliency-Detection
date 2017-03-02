@@ -1,5 +1,6 @@
 # Kernelized Subspace Ranking for Saliency Detection
-The codes and saliency results of the ECCV16 paper:" Kernelized Subspace Ranking for Saliency Detection"
+This package has the source code for the paper "Kernelized Subspace Ranking for Saliency Detection" (ECCV16).
+
 ## Citing this work
 If you find this work useful in your research, please consider citing:
 
@@ -28,7 +29,7 @@ Download our trained models from BaiDuYun Drive(https://pan.baidu.com/s/1jHXguHK
 
 
 ## Saliency Map
-The saliency maps on SED1, SED2, SOD, PASCAL, MSRA, HKU-IS, THUR15K, ECSSD and DUT-OMRON datasets can be found on BaiDuYun Drive(https://pan.baidu.com/s/1bpJxNI3).
+The saliency maps on the SED1, SED2, SOD, PASCAL, MSRA, HKU-IS, THUR15K, ECSSD and DUT-OMRON datasets can be found in this repository.
 
 ## Contact
 tiantianwang.ice@gmail.com
