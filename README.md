@@ -25,7 +25,7 @@ Download pretrained SDS model from [1](https://www2.eecs.berkeley.edu/Research/P
 3. Test: run `test.m` to generate saliency maps in the `./saliency_map` folder. 
 
 ## Our Trained Model
-Download our trained models from https://www.researchgate.net/ £¨search for this paper£©. Then put it into the `./trained_model` folder.
+Download our trained models from https://www.researchgate.net/ (search for this paper). Then put it into the `./trained_model` folder.
 
 
 ## Saliency Map
